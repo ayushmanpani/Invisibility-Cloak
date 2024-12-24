@@ -16,8 +16,8 @@ The goal of this project is to simulate an invisibility cloak effect, similar to
 - Interactive visualization using Jupyter Notebook.
 
 ## Repository Contents
-- `Invisibility_Cloak_OpenCV.ipynb`: Implementation using OpenCV's image processing techniques.
-- `Invisibility_Cloak_PyTorch.ipynb`: Implementation leveraging PyTorch for additional machine learning capabilities.
+- `InvisibilityCloak using OpenCV.ipynb`: Implementation using OpenCV's image processing techniques.
+- `InvisibilityCloak_using_Pytorch.ipynb`: Implementation leveraging PyTorch for additional machine learning capabilities.
 
 ## Prerequisites
 To run the projects, ensure you have the following installed:
